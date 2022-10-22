@@ -9,6 +9,15 @@ void IA()
 	cout<<endl;
 }
 
+void bathtracker(){
+	bool flag;
+	flag= true;
+	if(flag)
+	cout<<"Bhai Nahana Parey gaa";
+	else
+	cout<<"Khaire hi hia Cheetey";
+}
+
 int main ()
 {
 	IA();
@@ -16,11 +25,4 @@ int main ()
 		cout<<"I love Pakistan."<<endl;
 	cout<<endl;
 	IA();
-	
-	bool flag;
-	flag= true;
-	if(flag)
-	cout<<"Bhai Nahana Parey gaa";
-	else
-	cout<<"Khaire hi hia Cheetey";
 }
